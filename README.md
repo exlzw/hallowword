@@ -1,0 +1,2 @@
+# hallowword
+"垃圾"
